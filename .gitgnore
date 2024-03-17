@@ -1,17 +1,5 @@
-node_module
-
-node_modules/
 
 
-cache/
-dist/
-build/
+node_modules
 
 
-DS_Store
-
-
-env
-
-
-logg
